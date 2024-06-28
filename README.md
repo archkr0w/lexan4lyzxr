@@ -9,7 +9,7 @@ as the description says, this program basically consists of using Lex and part o
 *Count the number of characters, lines and integers in a .txt file.
 *Replace two or more blanks in a row with a single blank and two or more tabs with a single tab.
 *Delete comments that appear in a text file (single-line comments starting with the slashes are assumed to be single-line comments).
-*hat begin with the # symbol.
+*hat begin with the # symbol. 
 *Print a text as it is in the input file, but every time it detects a ";" it prints the following text on a new line, and every time a ñ appears in the text it is replaced by n.
 *Also print the output text with the changes of the previous points and encrypt the text using the following substitution table:
 
