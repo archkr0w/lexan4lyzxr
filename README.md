@@ -3,7 +3,7 @@
 ![kurisu](https://github.com/archkr0w/lexan4lyzxr/assets/126942746/1c7f9bd5-9afb-44dd-9a37-b9499538ffa4)
 
 ### YO YO YO YO ! 𓅨
-as the description says, this program basically consists of using Lex and part of its architecture to execute the different algorithms which are:
+as the description says, this program  basically consists of using Lex and part of its architecture to execute the different algorithms which are:
 
 ```
 *Count the number of characters, lines and integers in a .txt file.
